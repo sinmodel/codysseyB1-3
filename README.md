@@ -21,7 +21,7 @@ Google Form 응답이 Google Sheets에 저장되면 제출 여부를 확인한 �
 ```
 Trigger: Google Form 제출
 
-↓ (입력 데이터: 이름, 과목, 제출 여부)
+↓ (입력 데이터 : 이름, 과목, 제출 여부)
 
 Google Sheets 저장
 
@@ -45,9 +45,9 @@ Action 2: Discord 메시지 전송 (최종 출력)
 
 Google Form 제출 데이터는 Google Sheets에 자동 저장되며 다음 정보를 포함한다.
 
-- 이름 (String)
-- 과목 (String)
-- 제출 여부 (String: 예/아니오)
+- 이름 (신재풍)
+- 과목 (노코드 자동화 기초 : 워크플로우 설계)
+- 제출 여부 (예)
 - 타임스탬프 (Timestamp)
 
 ![구글 시트](./KakaoTalk_20260705_175645710.png)
