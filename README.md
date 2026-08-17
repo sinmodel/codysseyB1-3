@@ -41,8 +41,10 @@ Action 1:  mail에 3개의 분류함 생성을 하여 자동으로 중요메일�
    ![1번째 시나리오](./1번째%20시나리오.png)
 
 3. Zapier
+
+   ![1.Zapier](./1.Zapier.png)
+
    
-Google Sheets - Add a Row (이메일 정보 기록)  
 
 ## Make 구현
 
