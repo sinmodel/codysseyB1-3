@@ -20,7 +20,7 @@
 ## 워크플로우 구조
 
 Trigger:  
-Gmail  
+  Gmail:  
 Watch Emails 새 이메일 수신 (Gmail의 받은편지함으로 수신)
 
    `↓`
