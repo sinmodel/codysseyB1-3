@@ -19,11 +19,11 @@
 
 ## 워크플로우 구조
 
-Trigger: 
+Trigger:  
 Gmail - Watch Emails 새 이메일 수신 : Gmail의 받은편지함으로 수신
 
    `↓`
-Filter: 
+Filter:  
 제목에 1.중요메일, 2.일반메일, 3.광고메일을 지정하고  자동으로 조건분기 하는 작업 
 
   `↓`
