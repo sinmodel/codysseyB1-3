@@ -158,12 +158,19 @@ Make에서 실제 제작한 시나리오 화면을 캡처해 첨부하는 항목
 
 
 ![1. 전체 Scenarios](./1.전체%20Scenarios.png)
+
 ![2. Gmail(Watch emails)](./2.Gmail(Watch%20emails).png)
+
 ![3. Gmail 22](./3.Gmail%2022.png)
+
 ![4. Gmail 23](./4.Gmail%2023.png)
+
 ![5. Gmail 24](./5.Gmail%2024.png)
+
 ![6. OpenAI](./6.Open%20AI.png)
+
 ![7. Google Sheets](./7.Google%20Shees.png)
+
 ![8. Gmail 44](./8.Gmail%2044.png)
 
 
@@ -177,8 +184,8 @@ Make에서 실제 제작한 시나리오 화면을 캡처해 첨부하는 항목
 
 1. Gmail로 새 메일 도착 (Trigger 감지)
 2. 필터 조건을 통한 키워드 선별 (Filter 판단)
-3. Google Sheets에 메일 수신 정보 기록 (Action 1)
-4. Discord 채널로 담당자 실시간 알림 전송 (Action 2)
+3. AI연동Chat GPT Action 1 긴문장 이메일요약
+4. 스프레드시트 전송 (Action 2)
 
    
 ## 느낀 점
