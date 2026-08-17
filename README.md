@@ -118,6 +118,10 @@ Make에서 실제 제작한 시나리오 화면을 캡처해 첨부하는 항목
 ## Make 시나리오 구현 화면
 
 ![이메일 관리 자동화 시나리오](./email_scenario.png)
+
+![1. 전체 시나리오](./1.전체%20시나리오.png)
+
+
 ![1. 전체 Scenarios](./1.전체%20Scenarios.png)
 ![2. Gmail(Watch emails)](./2.Gmail(Watch%20emails).png)
 ![3. Gmail 22](./3.Gmail%2022.png)
