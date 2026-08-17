@@ -344,3 +344,10 @@ Action 2: Discord - Create a Message (담당자 알림)
 | **Filter** | 조건 필터 | 중요 이메일만 분류 |
 | **Action 1** | Google Sheets | 메일 수신 로그 저장 |
 | **Action 2** | Discord | 지정 채널에 자동 알림 전송 |
+
+| 단계 | 모듈 명칭 | 역할 및 조건 |
+| :--- | :--- | :--- |
+| **Trigger** | Gmail | 특정 라벨/조건의 새 메일 감지 |
+| **Filter** | 조건 필터 | 중요 이메일만 분류 |
+| **Action 1** | Google Sheets | 메일 수신 로그 저장 |
+| **Action 2** | Discord | 지정 채널에 자동 알림 전송 |
