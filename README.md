@@ -332,12 +332,14 @@ Google Form 제출 후 Google Sheets에 자동 저장되며, 제출 여부가 "�
 Trigger: Gmail - Watch Emails (새 이메일 수신 : Email의 받은편지함 )
 
    ↓
-Filter: 제목에 1.중요메일, 2.일반메일, 3.광고메일로 분류 
+Filter: 제목에 1.중요메일, 2.일반메일, 3.광고메일로 분류 작업 (조건분기)
 
    ↓
-Action 1: Google Sheets - Add a Row (이메일 정보 기록)  
+Action 1: Gmail - 3개의 분류함 생성 Google Sheets - Add a Row (이메일 정보 기록)  
 
    ↓
+Filter: AI (1.중요메일 중 긴 문장 선택분류)
+
 Action 2: Discord - Create a Message (담당자 알림)  
 
 
