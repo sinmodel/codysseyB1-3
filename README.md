@@ -21,7 +21,7 @@
 
 Trigger:  
   Gmail:  
-`↓`        Watch Emails 새 이메일 수신 (Gmail의 받은편지함으로 수신)
+`↓`        Watch Emails 새 이메일 수신 (Gmail의 받은편지함으로 수신)  
 `↓`  
 `↓`     
 Filter:  
