@@ -144,8 +144,8 @@ Action 2: Discord - Create a Message (담당자 알림)
 | :--- | :--- | :--- |
 | **Trigger** | Gmail | 특정 라벨/조건의 새 메일 감지 |
 | **Filter** | 조건 필터 | 중요 이메일만 분류 |
-| **Action 1** | Google Sheets | 메일 수신 로그 저장 |
-| **Action 2** | Discord | 지정 채널에 자동 알림 전송 |
+| **Action 1** | AI Chat GPT | 메일 수신 로그 저장 |
+| **Action 2** | Spread sheet | 지정 채널에 자동 알림 전송 |
 
 1. 시나리오 구현 화면 캡쳐 (이미지 첨부)
 Make에서 실제 제작한 시나리오 화면을 캡처해 첨부하는 항목입니다.
