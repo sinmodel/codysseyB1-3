@@ -336,6 +336,15 @@ Action 1: Google Sheets - Add a Row (이메일 정보 기록)
    ↓
 Action 2: Discord - Create a Message (담당자 알림)
 
+## [이메일 관리 노코드 자동화] 워크플로우 구조
+
+Trigger: Gmail - Watch Emails (새 이메일 수신)
+   ↓
+Filter: 제목에 "과제" 또는 "문의" 포함 여부
+   ↓
+Action 1: Google Sheets - Add a Row (이메일 정보 기록)
+   ↓
+Action 2: Discord - Create a Message (담당자 알림)
 ###사용 모듈
 
 | 단계 | 모듈 명칭 | 역할 및 조건 |
