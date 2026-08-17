@@ -329,10 +329,10 @@ Google Form 제출 후 Google Sheets에 자동 저장되며, 제출 여부가 "�
 ## [이메일 관리 노코드 자동화] 워크플로우 구조  
 
 
-Trigger: Gmail - Watch Emails (새 이메일 수신)  
+Trigger: Gmail - Watch Emails (새 이메일 수신 : Email의 받은편지함 )
 
    ↓
-Filter: 제목에 "과제" 또는 "문의" 포함 여부  
+Filter: 제목에 1.중요메일, 2.일반메일, 3.광고메일로 분류 
 
    ↓
 Action 1: Google Sheets - Add a Row (이메일 정보 기록)  
