@@ -354,7 +354,14 @@ Make에서 실제 제작한 시나리오 화면을 캡처해 첨부하는 항목
 ## Make 시나리오 구현 화면
 
 ![이메일 관리 자동화 시나리오](./email_scenario.png)
-
+![1. 전체 Scenarios](./1.전체%20Scenarios.png)
+![2. Gmail(Watch emails)](./2.Gmail(Watch%20emails).png)
+![3. Gmail 22](./3.Gmail%2022.png)
+![4. Gmail 23](./4.Gmail%2023.png)
+![5. Gmail 24](./5.Gmail%2024.png)
+![6. OpenAI](./6.Open%20AI.png)
+![7. Google Sheets](./7.Google%20Shees.png)
+![8. Gmail 44](./8.Gmail%2044.png)
 
 2. 자동 실행 증빙 및 동작 방식
 이 시스템이 사용자의 수동 개입 없이 어떻게 자동으로 돌아가는지 설명합니다.
