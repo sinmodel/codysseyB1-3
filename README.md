@@ -189,8 +189,6 @@
 
 ![7. Google Sheets](./7.Google%20Shees.png)
 
-
-## 오랫동안 수고 많았어요. ㅎㅎ
-
 ![8. Gmail 44](./8.Gmail%2044.png)
 
+## 오랫동안 수고 많았어요. ㅎㅎ
