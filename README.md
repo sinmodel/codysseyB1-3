@@ -111,14 +111,14 @@ Action 1: Gmail에 3개의 분류함 생성과 자동처리
    Gmail로 수신된 이메일을 자동으로 분류하고, 중요 메일은 ChatGPT를 활용하여 핵심 내용을 요약한 뒤
    Google Spreadsheet에 자동 저장하는 스마트 이메일 관리 자동화 시스템입니다.  
 
-|단계|모듈|역할|  
-|---|---|---|
-|Trigger|	Gmail (Watch Emails)|	새 이메일 수신 감지|
-|Filter 1|	조건 분기|	이메일을 중요, 일반, 광고 메일로 분류|
-|Action 1|	Gmail|분류 결과에 따라 각 메일함으로 자동 이동|
-|Filter 2|	AI (ChatGPT)|중요 메일 중 긴 문장 포함 여부 확인|
-|Action 2|	ChatGPT|중요 메일 내용을 자동 요약|
-|Action 3|	Google Spreadsheet|요약 결과를 자동 저장 및 보관|
+|단계|모듈|역할|   
+|---|---|---|  
+|Trigger|	Gmail (Watch Emails)|	새 이메일 수신 감지|  
+|Filter 1|	조건 분기|	이메일을 중요, 일반, 광고 메일로 분류|  
+|Action 1|	Gmail|분류 결과에 따라 각 메일함으로 자동 이동|  
+|Filter 2|	AI (ChatGPT)|중요 메일 중 긴 문장 포함 여부 확인|  
+|Action 2|	ChatGPT|중요 메일 내용을 자동 요약|  
+|Action 3|	Google Spreadsheet|요약 결과를 자동 저장 및 보관|  
 
 3. 워크플로우 다이어그램
 ┌─────────────────────┐  
