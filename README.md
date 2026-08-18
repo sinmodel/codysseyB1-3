@@ -123,7 +123,7 @@ Action 2: Spreadsheet 요약문서 자동보관
 | **Trigger** | Gmail | 특정 라벨/조건의 새 메일 감지 |
 | **Filter** | 조건 필터 | 이메일 3분류 |
 | **Action 1** | AI: Chat GPT | 중요메일 자동요약 |
-| **Action 2** | Spreadsheet | 요약문서 자동저장 |
+| **Action 2** | Spreadsheet | 요약문서 자동보관 |
 
 1. 시나리오 구현 화면 캡쳐 (이미지 첨부)
 Make에서 실제 제작한 시나리오 화면을 캡처해 첨부하는 항목입니다.
