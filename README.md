@@ -50,9 +50,8 @@
 ( 이메일의 3가지 분류 화면 )
 
 ### (1) 중요메일
-![Email 1.중요메일](./Email 1.중요메일.png)
-![Important Email](./email1-important.png)
 
+![Email 1.중요메일](./Email 1.중요메일.png)
 
 
 ### (2) 일반메일
