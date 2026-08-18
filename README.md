@@ -51,7 +51,7 @@
 
 ### (1) 중요메일
 ![Email 1.중요메일](./Email 1.중요메일.png)
-
+![Important Email](./email1-important.png)
 
 
 
