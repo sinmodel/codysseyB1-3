@@ -112,6 +112,7 @@ Action 1: Gmail에 3개의 분류함 생성과 자동처리
    Google Spreadsheet에 자동 저장하는 스마트 이메일 관리 자동화 시스템입니다.  
 
 |단계|모듈|역할|   
+
 |---|---|---|  
 |Trigger|	Gmail (Watch Emails)|	새 이메일 수신 감지|  
 |Filter 1|	조건 분기|	이메일을 중요, 일반, 광고 메일로 분류|  
