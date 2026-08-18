@@ -116,7 +116,7 @@ Action 1: Gmail에 3개의 분류함 생성과 자동처리
    ↓
 Filter: AI ( ChatGPT ) 중요메일 중에서 긴 문장 자동요약 
    ↓
-Action 2: Spreadsheet 요약문서 자동저장
+Action 2: Spreadsheet 요약문서 자동보관
 
 | 단계 | 모듈 명칭 | 역할 및 조건 |
 | :--- | :--- | :--- |
