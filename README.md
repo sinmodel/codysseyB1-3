@@ -108,26 +108,22 @@ Action 1: Gmail에 3개의 분류함 생성과 자동처리
 ## 워크플로우 구조
 워크플로우 설계 문서 (설명 또는 다이어그램 포함)
 
-Trigger: Gmail - Watch Emails (새 이메일 수신 : Email의 받은편지함 )
-
+Trigger: Gmail  ( Watch Emails ) 새 이메일 수신
    ↓
-Filter: 제목에 1.중요메일, 2.일반메일, 3.광고메일로 분류 작업 (조건분기)
-
+Filter: 3가지 메일함 지정과  자동 조건분기
    ↓
-Action 1: Gmail - 3개의 분류함 생성 Google Sheets - Add a Row (이메일 정보 기록)  
-
+Action 1: Gmail에 3개의 분류함 생성과 자동처리
    ↓
-Filter: AI (1.중요메일 중 긴 문장 선택분류)
-
-Action 2: Discord - Create a Message (담당자 알림)  
-
+Filter: AI ( ChatGPT ) 중요메일 중에서 긴 문장 자동요약 
+   ↓
+Action 2: Spreadsheet 요약문서 자동저장
 
 | 단계 | 모듈 명칭 | 역할 및 조건 |
 | :--- | :--- | :--- |
 | **Trigger** | Gmail | 특정 라벨/조건의 새 메일 감지 |
-| **Filter** | 조건 필터 | 중요 이메일만 분류 |
-| **Action 1** | AI Chat GPT | 메일 수신 로그 저장 |
-| **Action 2** | Spread sheet | 지정 채널에 자동 알림 전송 |
+| **Filter** | 조건 필터 | 이메일 3분류 |
+| **Action 1** | AI: Chat GPT | 중요메일 자동요약 |
+| **Action 2** | Spreadsheet | 요약문서 자동저장 |
 
 1. 시나리오 구현 화면 캡쳐 (이미지 첨부)
 Make에서 실제 제작한 시나리오 화면을 캡처해 첨부하는 항목입니다.
