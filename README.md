@@ -27,11 +27,9 @@
 ## 2. 워크플로우 구조
 |단계|모듈|역할|
 |---|---|---|
-|Trigger:|  Gmail (Watch Emails) |새 이메일 수신|  
-  
+|Trigger:|Gmail (Watch Emails)|새 이메일 수신|  
 |Filter:|Router|3가지 메일함 지정과 자동 조건분기|
- 
-|Action 1:| Gmail| 3개의 분류함 생성과 자동처리|
+|Action 1:|Gmail|3개의 분류함 생성과 자동처리|
 
 
 ## 3. 각 도구별 워크플로우 구성 화면 캡쳐
