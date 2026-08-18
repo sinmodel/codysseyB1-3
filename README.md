@@ -70,7 +70,7 @@ Action 1: Gmail에 3개의 분류함 생성과 자동처리
 
 ---
 
-## 비교 분석 보고서  
+## 비교 분석 보고서  (Markdown)
 ### 1. Make와 Zapier의 비교 분석
 (업무 요구사항 기준)
 |비교 항목|Make|Zapier|
