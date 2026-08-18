@@ -50,7 +50,7 @@
 ( 이메일의 3가지 분류 화면 )
 
 ### (1) 중요메일
-](https://github.com/sinmodel/codysseyB1-3/blob/main/Email%201.%EC%A4%91%EC%9A%94%EB%A9%94%EC%9D%BC.png)
+https://github.com/sinmodel/codysseyB1-3/blob/main/Email%201.%EC%A4%91%EC%9A%94%EB%A9%94%EC%9D%BC.png
 
 
 ### (2) 일반메일
