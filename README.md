@@ -105,18 +105,18 @@ Action 1: Gmail에 3개의 분류함 생성과 자동처리
 
 따라서 본 프로젝트의 이메일 자동 분류 및 보관 자동화에는 Make가 가장 적합한 도구라고 판단하였습니다.
 
-## 워크플로우 구조
-워크플로우 설계 문서 (설명 또는 다이어그램 포함)
+## 워크플로우 구조  
+워크플로우 설계 문서 (설명 또는 다이어그램 포함)  
 
-Trigger: Gmail  ( Watch Emails ) 새 이메일 수신
+Trigger: Gmail  ( Watch Emails ) 새 이메일 수신  
    ↓
-Filter: 3가지 메일함 지정과  자동 조건분기
+Filter: 3가지 메일함 지정과  자동 조건분기  
    ↓
-Action 1: Gmail에 3개의 분류함 생성과 자동처리
+Action 1: Gmail에 3개의 분류함 생성과 자동처리  
    ↓
-Filter: AI ( ChatGPT ) 중요메일 중에서 긴 문장 자동요약 
+Filter: AI ( ChatGPT ) 중요메일 중에서 긴 문장 자동요약  
    ↓
-Action 2: Spreadsheet 요약문서 자동보관
+Action 2: Spreadsheet 요약문서 자동보관  
 
 | 단계 | 모듈 명칭 | 역할 및 조건 |
 | :--- | :--- | :--- |
