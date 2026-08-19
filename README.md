@@ -176,6 +176,8 @@
 ## (2) 이어서 제작한 2단계 시나리오 화면
 ![1. 전체 Scenarios](./1.전체%20Scenarios.png)
 
+## (3) Trigger 단계에서 모든 이메일을 수신하는 화면
+   테스트를 위해 1분간격으로 지정하였습니다.
 ![2. Gmail(Watch emails)](./2.Gmail(Watch%20emails).png)
 
 ![3. Gmail 22](./3.Gmail%2022.png)
