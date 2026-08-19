@@ -184,6 +184,8 @@
 실제로는 일반적으로 15분간격으로 처리하게 됩니다.
 ![2. Gmail(Watch emails)](./2.Gmail(Watch%20emails).png)
 
+## (4) Router/Filter 단계에서 3가지의 자동분류를 설정합니다.
+그 중 조건분기를 통하여 1.중요메일을 설정하는 화면입니다,
 ![3. Gmail 22](./3.Gmail%2022.png)
 
 ![4. Gmail 23](./4.Gmail%2023.png)
